@@ -3,8 +3,6 @@
 
 <div align="center">
 
-![BPR Cycle](https://www.researchgate.net/publication/332345137/figure/fig1/AS:747718603333633@1555259599441/The-BPR-cycle-and-its-phases.png)
-
 [![GitHub stars](https://img.shields.io/github/stars/YourGitHubUsername/BPR-Handbook?style=social)](https://github.com/YourGitHubUsername/BPR-Handbook/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/YourGitHubUsername/BPR-Handbook?style=social)](https://github.com/YourGitHubUsername/BPR-Handbook/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
