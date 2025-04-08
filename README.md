@@ -638,12 +638,6 @@ Modern BPR and digital transformation initiatives should be viewed as complement
 
 ### 6.3 Implementation Framework for Technology-Enabled BPR
 
-<div align="center">
-
-![Tech-Enabled BPR](https://www.researchgate.net/publication/329451810/figure/fig2/AS:700328173932544@1544002238140/A-proposed-framework-of-IT-enabled-business-process-change.png)
-
-</div>
-
 Implementing technology-enabled BPR requires a structured approach:
 
 1. **Process Vision Development**: Define future-state vision aligned with strategy
